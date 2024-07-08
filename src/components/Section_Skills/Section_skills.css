@@ -1,0 +1,11 @@
+.skillDivs {
+}
+
+.skillWrapper {
+  color: white;
+  margin: 50px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  text-transform: uppercase;
+}
