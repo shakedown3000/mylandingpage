@@ -5,7 +5,7 @@ const SectionIntro = () => {
     <section className="hero">
       <div className="heroWrapper">
         <h1>I am Anna.</h1>
-        <h2>A Junior Front-End-Developer from Düsseldorf/Germany.</h2>
+        <h2>A Junior Front-End-Developer from Düsseldorf.</h2>
         <p>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
           nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
